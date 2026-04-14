@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+
+# Naver Session
+auth.json
+
+# Output
+output/
+
+# Logs & Debug
+class_dump.txt
+*.log
+
+# IDEs
+.vscode/
+.idea/
